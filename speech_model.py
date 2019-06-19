@@ -102,7 +102,9 @@ history = model.fit(np.array(x_train), np.array(y_train), epochs=EPOCHS, batch_s
 model.save("model.h5")
 print("trained model saved")
 
+#achieved 96.05% training accuracy 
 score = model.evaluate(np.array(x_test), np.array(y_test), batch_size=BATCH_SIZE, verbose=1)
 
 print('Test loss:', score[0])
 print('Test accuracy:', score[1])
+#achieved 95.45% test accuracy 
