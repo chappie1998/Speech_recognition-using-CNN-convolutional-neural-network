@@ -15,3 +15,6 @@ There are many methods of speech recognition. CNN is also one method of speech r
 2. librosa
 3. numpy
 4. glob
+
+#### CNN model architecture
+![alt text](https://github.com/ankitgc1/Speech_recognition-using-CNN-convolutional-neural-network/blob/master/model.png)
