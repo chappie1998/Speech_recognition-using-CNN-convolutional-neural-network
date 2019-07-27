@@ -8,7 +8,7 @@ There are many methods of speech recognition. CNN is also one method of speech r
 ![alt text](https://github.com/ankitgc1/Speech_recognition-using-CNN-convolutional-neural-network/blob/master/MFCC_feature_extraction.jpg)
 
 * [CNN working principle(block diagram)]
-![alt text](https://github.com/ankitgc1/Speech_recognition-using-CNN-convolutional-neural-network/blob/master/working_principle-1.jpg) 
+![alt text](https://github.com/ankitgc1/Speech_recognition-using-CNN-convolutional-neural-network/blob/master/working_principle1-1.jpg) 
 
 #### Dependencies
 1. keras
