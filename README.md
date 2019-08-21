@@ -4,7 +4,7 @@ There are many methods of speech recognition. CNN is also one method of speech r
 
 ## working principle 
 
-* [MFCC feature extraction method](https://librosa.github.io/librosa/generated/librosa.feature.mfcc.html)
+* [Mel-spectrogram feature extraction method](https://librosa.github.io/librosa/generated/librosa.feature.mfcc.html)
 ![alt text](https://github.com/ankitgc1/Speech_recognition-using-CNN-convolutional-neural-network/blob/master/mel_spectrogram.png)
 
 * CNN working principle(block diagram)
